@@ -13,7 +13,7 @@
 <p>Right off the bat, the Home page is shown when entering the web app. In there, the Community Showcase is available - showing all the images in the database. On hover, the prompts used to generate that image, name of the person that made the prompt and a button that allows the user to download the image are shown.</p>
 
 <div align="center">
-  <img style="width:50%" src="https://github.com/Ashish-1225/AI-Image-Generating-App/blob/61cd4b492f85a4f1758ca39d81dc66ce7a320b9b/client/src/assets/createpost-view.png" alt="OpenAI logo" />
+  <img style="width:50%" src="client/src/assets/homepage-view.png" />
 </div>
 
 <p>To be able to interact with the API, you need to click on the button at the top right side of the screen 'Create'. By blicking on the button, the user is redirected to the Create Post page.</p>
