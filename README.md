@@ -41,7 +41,7 @@ The following tools were used in the construction of this application:
 **Workspace**
 
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**
--   Browser: **[Microsoft Edge](https://www.microsoft.com/en-us/edge)** (Edge on Ubuntu!? Yeah, I know...)
+-   Browser: **[Microsoft Edge](https://www.microsoft.com/en-us/edge)**  
 
 ---
 
